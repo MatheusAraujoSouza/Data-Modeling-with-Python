@@ -12,5 +12,10 @@ Getting Started To complete the project, you will need to define fact and dimens
 transfers data from files in two local directories to these tables in Postgres using Python and SQL. 
 
 
+<p align="center">
+<img src="https://github.com/MatheusAraujoSouza/Data-Modeling-with-Postgres/blob/main/flux.png" width="500" height="300"/> 
+ 
+ note: the entire project was done with python. 
+
 
 
