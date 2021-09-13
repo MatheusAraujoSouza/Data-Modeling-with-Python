@@ -1,4 +1,4 @@
-# Data-Modeling
+# Data-Modeling-with-Python
 
  ## introduction 
 
